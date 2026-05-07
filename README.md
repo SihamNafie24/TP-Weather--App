@@ -2,7 +2,7 @@
 
 A premium, modern weather application built with Next.js, React, and Tailwind CSS. It features a sleek glassmorphism UI with real-time weather tracking, 5-day forecasts, and dynamic dark mode styling.
 
-## ✨ Features
+## Features
 
 - **Real-Time Weather Data**: Get up-to-date current weather conditions.
 - **5-Day Forecast**: Plan ahead with detailed 5-day weather forecasts.
@@ -11,7 +11,7 @@ A premium, modern weather application built with Next.js, React, and Tailwind CS
 - **Dark Mode Support**: Elegant dark theme integrated perfectly for night time use.
 - **Glassmorphism UI**: High-end aesthetic with frosted glass effects and smooth micro-animations.
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - **Framework**: [Next.js](https://nextjs.org/)
 - **Styling**: [Tailwind CSS](https://tailwindcss.com/)
@@ -19,7 +19,7 @@ A premium, modern weather application built with Next.js, React, and Tailwind CS
 - **Language**: [TypeScript](https://www.typescriptlang.org/)
 - **API**: [OpenWeatherMap API](https://openweathermap.org/api)
 
-## 🚀 Getting Started
+## Getting Started
 
 Follow these steps to set up the project locally.
 
@@ -62,7 +62,7 @@ Follow these steps to set up the project locally.
 
 5. Open your browser and navigate to `http://localhost:3000`.
 
-## 🤝 Contributing
+## Contributing
 
 Contributions, issues, and feature requests are welcome!
 
