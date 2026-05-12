@@ -1,4 +1,4 @@
-# TP Weather App 🌦️
+# TP Weather App 
 
 A premium, modern weather application built with Next.js, React, and Tailwind CSS. It features a sleek glassmorphism UI with real-time weather tracking, 5-day forecasts, and dynamic dark mode styling.
 
